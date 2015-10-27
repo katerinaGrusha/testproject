@@ -5,6 +5,8 @@ package main;
  */
 public class Test {
     public static int fun() {
-        return 8*9;
+String str;
+str = "booooooom";
+        return str;
     }
 }
