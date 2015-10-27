@@ -5,6 +5,6 @@ package main;
  */
 public class Test {
     public static int fun() {
-        return 5*5 - 20/3;
+        return 8*9;
     }
 }
