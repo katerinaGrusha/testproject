@@ -6,7 +6,7 @@ package main;
 public class Test {
     public static int fun() {
 String str;
-str = "booooooom";
+str = "boooooooooooom";
         return str;
     }
 }
